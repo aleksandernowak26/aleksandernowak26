@@ -7,22 +7,7 @@
 
 # 👋 **Hi There! Welcome to My GitHub Profile** 🎉
 
-I am a **Computer Science** student specializing in **Data Science**, with a passion for **Machine Learning**, **Artificial Intelligence**, and **Data Analysis**. As a **Full Stack Developer**, I love combining my technical skills to create data-driven solutions and intelligent systems.
-
----
-
-## 🚀 **About Me**
-
-🎯 **Machine Learning & AI Enthusiast**:  
-- Building data-driven solutions using **Deep Learning**, **NLP**, and **Computer Vision**.
-
-💻 **Full Stack Developer**:  
-- Developing scalable **frontend** and **backend** systems using **React**, **Node.js**, and more.
-
-📊 **Data Science Expert**:  
-- Skilled in **EDA**, **Data Visualization**, and **Predictive Modeling**.
-
----
+I am a **Senior Full stack Developer** expertise in designing, developing, and optimizing highperformance web applications. As a **Full Stack Developer**, I love combining my technical skills to create data-driven solutions and intelligent systems.
 
 ## 🛠️ **Skills and Tools**
 <div align="center">
@@ -165,25 +150,6 @@ I am a **Computer Science** student specializing in **Data Science**, with a pas
   </table>
 </div>
 
-
----
-
-## 📌 **Highlighted Projects**
-- 🔹 **Personal Assistant**: Voice-enabled assistant for daily tasks.  
-- 🔹 **Unity Asset Management DBMS**: Streamlined asset tracking in Unity.  
-- 🔹 **OCR Document System**: Text extraction from images with **Tesseract**.  
-- 🔹 **Grocery Web App**: Full Stack app for managing grocery items.  
-- 🔹 **And Many More...** *(Check my repositories!)*
-
----
-
-## 📚 **Education**
-
-🎓 Bachelor’s in **Computer Science**, specializing in **Data Science**.  
-🛠️ Hands-on experience in **Machine Learning**, **Deep Learning**, and **Full Stack Development**.
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -195,17 +161,15 @@ I am a **Computer Science** student specializing in **Data Science**, with a pas
 
 ## 💬 **Let’s Connect**
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatsharma84226@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-kumar-1245a5259/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://prabhatadvait.github.io/Portfolio_Website/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aleksandernowak0206@gmail.com)
 
 ---
 
 ## 📊 **GitHub Stats**
 
-![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhatadvait&show_icons=true&theme=radical&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatadvait&layout=compact&langs_count=10&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=prabhatadvait)
+![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksandernowak26&show_icons=true&theme=radical&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandernowak26&layout=compact&langs_count=10&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=aleksandernowak26)
 
 ---
 
